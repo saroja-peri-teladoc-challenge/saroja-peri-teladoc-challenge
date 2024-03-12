@@ -7,7 +7,7 @@
 |Admin | Admin | Admin | ---- | Admin | admin@comp.com |777888999 | No|
 | Test | Test | Test | Company BBB | Customer| test@test.cz | 789456123 | NO|
 |Testsale | Testsale| Testsale | ---- | Sales Team | testsale@test.cz | 7894561233 | No| 👋
-| New Record | Test Value | Saroja Peri | sarojaperi@test.com | 7771232123 | No | 
+| New Record | Test Value | Saroja Peri |Customer| Customer | sarojaperi@test.com | 7771232123 | No | 
 
 
 <!--
