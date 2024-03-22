@@ -8,7 +8,7 @@
 | Test | Test | Test | Company BBB | Customer| test@test.cz | 789456123 | NO|
 |Testsale | Testsale| Testsale | ---- | Sales Team | testsale@test.cz | 7894561233 | No| 👋
 | New Record | Test Value | Saroja Peri |Customer| Customer | sarojaperi@test.com | 7771232123 | No | 
-
+| Test Record | Test | SKP | New user | Vendor | alamo.com@cm.com | 987654321 | No |
 
 <!--
 **saroja-peri-teladoc-challenge/saroja-peri-teladoc-challenge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
